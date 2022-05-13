@@ -8,8 +8,8 @@ This command will plot phylogenetic or taxonomic tree based on your BLAST result
 ## 2. Krona main command and explanation
 
 `ktImportTaxonomy 
-GT48_blast_results.txt 
--o Krona_GT48_blast_results.html 
+BLAST_OUTPUT_FILE 
+-o KRONA_PLOT.html 
 -t 4 
 -s 3 
 -q 1`
