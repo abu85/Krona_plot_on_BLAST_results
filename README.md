@@ -1,4 +1,5 @@
 # Krona_plot_on_BLAST_results
+This command will plot phylogenetic or taxonomic tree based on your BLAST results.
 ## 1. Load Krona modules or softwares
 - In local computer: https://github.com/marbl/Krona/wiki/Installing
 - In server (e.g. uppmax) run this: 
