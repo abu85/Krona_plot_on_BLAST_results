@@ -15,7 +15,7 @@ GT48_blast_results.txt
 
 ### Explanation: 
 - `ktImportTaxonomy` = main command
-- `BLAST_OUTPUT_FILE` = BLAST results file, the file contain BLAST output, use this this file as input, this file should contain taxid column
+- `BLAST_OUTPUT_FILE` = BLAST results file, the file contains BLAST results query id, accessions ids, scores, taxid etc. Use this file as input. This file should contain taxid column
 - `-o` `KRONA_PLOT.html` = Krona output,  KRONA_PLOT.html is file, this will be creted after running the command
 - `-t` `4` = taxonomic ID column, here number 4 is the taxid column in my blast output file 
 - `-s` `3` = score column, here number 3 is the score column in my blast output file
